@@ -3,6 +3,3 @@ def oxford_comma(array)
   binding.pry
 end
 
-end
-
-def oxford_comma (array)
